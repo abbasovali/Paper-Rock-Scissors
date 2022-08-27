@@ -26,4 +26,4 @@ with header:
         elif option == ' ':
             st.text(" ")
         else:
-            st.text("You lose :(")
+            st.text("You lost :(")
