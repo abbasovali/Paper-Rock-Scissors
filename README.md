@@ -1,6 +1,6 @@
 Paper Scissor Rock game :
 
-Enter to : https://abbasovali-paper-rock-scissors-psr-1y66f7.streamlitapp.com/
+Enter to : https://abbasovali-paper-rock-scissors-psr-t3abjf.streamlitapp.com/
 
 Select your choice from the drop-down list 
 
